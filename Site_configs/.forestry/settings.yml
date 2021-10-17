@@ -46,7 +46,6 @@ build:
   preview_output_directory: public
   preview_docker_image: forestryio/hugo:latest
   mount_path: "/srv"
-  working_dir: "/srv"
-  instant_preview_command: cd Site_configs/ hugo server -D -E -F --renderToDisk -d
-    public
+  working_dir: "/srv/Site_configs"
+  instant_preview_command: hugo server -D -E -F --renderToDisk -d public
 version: 0.81.0
