@@ -1,6 +1,6 @@
 baseURL = "https://demo.gethugothemes.com/navigator/"
 languageCode = "en-us"
-title = "We work so you can scale without doubt"
+title = "Letscale2sky"
 theme = "navigator"
 summaryLength = 10
 
@@ -19,7 +19,7 @@ DefaultContentLanguage = "en"
 
 # Site Params
 [params]
-logo = "images/logo.png"
+logo = "images/logo01l.png"
 
 # Gestion des langues : FR / EN / NL / DE
 # [[Params.listeLangues]]
@@ -41,14 +41,14 @@ languageCode = "en-us"
 title = "We work so you can scale without doubt"
 dateFormat = "January 2, 2006"
 home = "Home"
-logo = "images/logo.png"
+logo = "images/logo01.png"
 menufixed = false
 
 footerDescription = "Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
 footerServiceTitle = "Service"
 footerQuicklinkTitle = "Quicklinks"
 footerAboutTitle = "About"
-footerSubscribeTitle = "Subscribe"
+# footerSubscribeTitle = "Subscribe"
 
 
 # cookies

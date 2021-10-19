@@ -1,8 +1,7 @@
 enable  : true
 topTitle: EASY PRICING
 title   : Pricing.
-subtitle : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
-
+# subtitle : 
 item  :
   - name        : BASIC
     price       : $99
