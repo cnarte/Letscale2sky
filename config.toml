@@ -59,13 +59,13 @@ expire_days = 2
 # Hero Area Section
 [Languages.en.params.hero]
 enable  = true
-heading = "We love to make brands grow"
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
-button  = true
-btnText = "Know More"
-btnURL  = "https://themefisher.com/"
+heading = "Focus on scaling leave the rest to us"
+description = "With a specialized range of expert-oriented services, we help small businesses, freelancers, and future entrepreneurs grow in their domain and reach their full potential."
+# button  = false
+# btnText = "Know More"
+# btnURL  = "https://themefisher.com/"
 videoThumb = "images/slider/video-player-thumb.jpg"
-videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
+# videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
 
 # About 2 Section
 [Languages.en.params.aboutSm]
@@ -75,7 +75,7 @@ description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae de
 
 # Blog Section On Homepage
 [Languages.en.params.blog]
-enable  = true
+enable  = false
 topTitle= "OUR UNTOLD STORY"
 title   = "Blog."
 subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
