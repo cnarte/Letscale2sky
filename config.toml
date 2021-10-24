@@ -70,8 +70,8 @@ videoThumb = "images/slider/video-player-thumb.jpg"
 # About 2 Section
 [Languages.en.params.aboutSm]
 enable  = true
-title   = "We have explored the digital landscape with passion for a long time"
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+title   = "What does it takes to reach next level"
+description = "We understand that scaling up can seem overwhelming at times but that's why we help you so you don't have to do it all by yourself. Now you can have a specialized arsenal of experts on your team at remarkable pricing."
 
 # Blog Section On Homepage
 [Languages.en.params.blog]
